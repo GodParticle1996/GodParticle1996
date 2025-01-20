@@ -1,14 +1,18 @@
 # Hello!, I'm Vibek Dutta 👋🏼
 
-<a href="https://github.com/sponsors/M0nica"><img align="center" width="750" height="150" src="https://github.com/user-attachments/assets/817b24e2-9a51-476b-934b-2917200f5ba3?raw=true"></a>
+<a href="/"><img align="center" width="vw" height="450" src="https://github.com/user-attachments/assets/817b24e2-9a51-476b-934b-2917200f5ba3?raw=true"></a>
 
-👨🏼‍💻 Fullstack Web Developer since 2019.
+👨🏼‍💻 Fullstack Web Developer since 2019. <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/user-attachments/assets/3601e724-e970-4197-a1f2-39bafffdf01f?raw=true"></a>
+
 💡 I'm looking to collaborate on projects using React, NestJS, AWS, MongoDB, Postgres, GraphQL etc.
+
 🎬 I write blogs on [Medium](https://medium.com/@VibekD1996)
+
 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/vibekdutta/)
+
 🎸 My favourite rock band is Avenged Sevenfold.
 
-# 💻 Tech Stack: <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/user-attachments/assets/3601e724-e970-4197-a1f2-39bafffdf01f?raw=true"></a>
+# 💻 Tech Stack:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
