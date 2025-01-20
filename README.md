@@ -1,4 +1,5 @@
 # Hello!, I'm Vibek Dutta 👋🏼
+![crow GIF](https://github.com/user-attachments/assets/817b24e2-9a51-476b-934b-2917200f5ba3)
 
 👨🏼‍💻 Fullstack Web Developer since 2019.
 
