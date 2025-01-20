@@ -33,3 +33,4 @@
 ![Nx](https://img.shields.io/badge/nx-%2300AFD7.svg?style=for-the-badge&logo=nx&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/tanstack%20query-%23000000.svg?style=for-the-badge&logo=react-query&logoColor=%23FF4154)
 ![React Hook Form](https://img.shields.io/badge/react%20hook%20form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![DenoJS](https://img.shields.io/badge/deno-%23000000.svg?style=for-the-badge&logo=deno&logoColor=white)
