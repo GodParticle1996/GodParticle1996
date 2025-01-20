@@ -1,7 +1,5 @@
 # Hello!, I'm Vibek Dutta 👋🏼
 
-![Header GIF](https://github.com/GodParticle1996/crow.gif)
-
 👨🏼‍💻 Fullstack Web Developer since 2019.
 
 💡 I'm looking to collaborate on projects using React, NestJS, AWS, MongoDB, Postgres, GraphQL etc.
