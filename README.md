@@ -2,7 +2,7 @@
 
 👨🏼‍💻 Fullstack Web Developer since 2019.
 
-💡 I'm looking to collaborate on open source projects using React, NestJS, AWS, MongoDB, Postgres, GraphQL etc.
+💡 I'm looking to collaborate on projects using React, NestJS, AWS, MongoDB, Postgres, GraphQL etc.
 
 🎬 I write blogs on dev.to
 
