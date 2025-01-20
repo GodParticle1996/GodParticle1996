@@ -25,6 +25,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/kafka-%2300ADEF.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -34,7 +35,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Nx](https://img.shields.io/badge/nx-%2300AFD7.svg?style=for-the-badge&logo=nx&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -43,8 +43,6 @@
 ![TanStack Query](https://img.shields.io/badge/tanstack%20query-%23000000.svg?style=for-the-badge&logo=react-query&logoColor=%23FF4154)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/shadcn-%23000000.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
-![DenoJS](https://img.shields.io/badge/deno-%23000000.svg?style=for-the-badge&logo=deno&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-%2300C7B7.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 <picture>
