@@ -2,7 +2,7 @@
 
 <a href="/"><img align="center" width="1000" height="350" src="https://github.com/user-attachments/assets/817b24e2-9a51-476b-934b-2917200f5ba3?raw=true"></a>
 
-👨🏼‍💻 Fullstack Web Developer since 2019. <a href="/"><img align="right" width="260" height="230" src="https://github.com/user-attachments/assets/3601e724-e970-4197-a1f2-39bafffdf01f?raw=true"></a>
+👨🏼‍💻 Fullstack Web Developer since 2019. <a href="/"><img align="right" width="280" height="200" src="https://github.com/user-attachments/assets/3601e724-e970-4197-a1f2-39bafffdf01f?raw=true"></a>
 
 💡 I'm looking to collaborate on projects using React, NestJS, AWS, MongoDB, Postgres, GraphQL etc.
 
