@@ -1,6 +1,6 @@
 # Hello!, I'm Vibek Dutta 👋🏼
 
-<a href="/"><img align="center" width="vw" height="450" src="https://github.com/user-attachments/assets/817b24e2-9a51-476b-934b-2917200f5ba3?raw=true"></a>
+<a href="/"><img align="center" width="1000" height="350" src="https://github.com/user-attachments/assets/817b24e2-9a51-476b-934b-2917200f5ba3?raw=true"></a>
 
 👨🏼‍💻 Fullstack Web Developer since 2019. <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/user-attachments/assets/3601e724-e970-4197-a1f2-39bafffdf01f?raw=true"></a>
 
