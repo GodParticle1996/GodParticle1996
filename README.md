@@ -1,8 +1,8 @@
-# Hello!, I'm Vibek Dutta 👋🏼
+# Hello! I'm Vibek Dutta 👋🏼
 
 <a href="/"><img align="center" width="1000" height="350" src="https://github.com/user-attachments/assets/817b24e2-9a51-476b-934b-2917200f5ba3?raw=true"></a>
 
-👨🏼‍💻 Fullstack Web Developer since 2019. <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/user-attachments/assets/3601e724-e970-4197-a1f2-39bafffdf01f?raw=true"></a>
+👨🏼‍💻 Fullstack Web Developer since 2019. <a href="/"><img align="right" width="250" height="250" src="https://github.com/user-attachments/assets/3601e724-e970-4197-a1f2-39bafffdf01f?raw=true"></a>
 
 💡 I'm looking to collaborate on projects using React, NestJS, AWS, MongoDB, Postgres, GraphQL etc.
 
@@ -28,11 +28,15 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Nx](https://img.shields.io/badge/nx-%2300AFD7.svg?style=for-the-badge&logo=nx&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/tanstack%20query-%23000000.svg?style=for-the-badge&logo=react-query&logoColor=%23FF4154)
 ![React Hook Form](https://img.shields.io/badge/react%20hook%20form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![ShadCN](https://img.shields.io/badge/shadcn-%23000000.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![DenoJS](https://img.shields.io/badge/deno-%23000000.svg?style=for-the-badge&logo=deno&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%2300C7B7.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
