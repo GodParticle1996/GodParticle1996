@@ -33,7 +33,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Nx](https://img.shields.io/badge/nx-%2300AFD7.svg?style=for-the-badge&logo=nx&logoColor=white)
-![Hardhat](https://img.shields.io/badge/hardhat-%23FF2D20.svg?style=for-the-badge&logo=hardhat&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Polygon](https://img.shields.io/badge/polygon-%238247e5.svg?style=for-the-badge&logo=polygon&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/react%20hook%20form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/tanstack%20query-%23000000.svg?style=for-the-badge&logo=react-query&logoColor=%23FF4154)
@@ -42,3 +42,4 @@
 ![DenoJS](https://img.shields.io/badge/deno-%23000000.svg?style=for-the-badge&logo=deno&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%2300C7B7.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
