@@ -1,9 +1,13 @@
 # Hello!, I'm Vibek Dutta 👋🏼
 
 👨🏼‍💻 Fullstack Web Developer since 2019.
+
 💡 I'm looking to collaborate on open source projects using React, NodeJS, NestJS, AWS, MongoDB, Postgres, MySQL, Redis, GraphQL etc.
-🎬 I write blogs on dev.to  
+
+🎬 I write blogs on dev.to
+
 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/vibekdutta/)
+
 🎸 My favourite rock band is Avenged Sevenfold.
 
 # 💻 Tech Stack:
@@ -21,7 +25,10 @@
 ![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+<!-- ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) -->
+
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
