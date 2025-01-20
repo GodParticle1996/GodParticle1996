@@ -8,14 +8,10 @@
   <dd>
     <dl>
       <dd>
-        
-      </dd>
-    </dl>
+        👨🏼‍💻 Fullstack Web Developer since 2019.
   </dd>
 </dl>
 </a>
-
-👨🏼‍💻 Fullstack Web Developer since 2019.
 
 💡 I'm looking to collaborate on projects using React, NestJS, AWS, MongoDB, Postgres, GraphQL etc.
 
