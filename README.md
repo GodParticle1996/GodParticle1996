@@ -13,6 +13,9 @@
     </dl>
   </dd>
 </dl>
+<dl><dd><dl><dd><dl><dd><dl><dd>
+Yes, but syntax gets messy, unless you write it single line :)
+</dd></dl></dd></dl></dd></dl></dd></dl>
 
 💡 I'm looking to collaborate on projects using React, NestJS, AWS, MongoDB, Postgres, GraphQL etc.
 
