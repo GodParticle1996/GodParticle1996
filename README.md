@@ -4,7 +4,7 @@
 
 💡 I'm looking to collaborate on projects using React, NestJS, AWS, MongoDB, Postgres, GraphQL etc.
 
-🎬 I write blogs on dev.to
+🎬 I write blogs on [Medium](https://medium.com/@VibekD1996)
 
 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/vibekdutta/)
 
