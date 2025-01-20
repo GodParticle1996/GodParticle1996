@@ -14,6 +14,8 @@
 
 🎸 My favourite rock band is Avenged Sevenfold.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&width=435&lines=Fullstack+Serverless+Developer%7C+AWS+%7C+Typescript)](https://git.io/typing-svg)
+
 # 💻 Tech Stack:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -50,3 +52,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GodParticle1996/GodParticle1996/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/GodParticle1996/GodParticle1996/output/github-snake.svg" />
 </picture>
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=vishnudas-bluefox&label=Visitors&labelColor=111826&countColor=F25C93)
