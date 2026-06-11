@@ -1,22 +1,31 @@
-# Hello! I'm Vibek Dutta 👋🏼
+<h1 align="center">
+  Hey there, I'm Vibek Dutta
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-44f0f158-19b0-4a40-bd9b-c79b6c0d6f1d.gif" width="35">
+</h1>
 
 <a href="/"><img align="center" width="1010" height="320" src="https://github.com/user-attachments/assets/817b24e2-9a51-476b-934b-2917200f5ba3?raw=true"></a>
 
-<a href="/"><img align="right" width="200" height="190" src="https://github.com/user-attachments/assets/3601e724-e970-4197-a1f2-39bafffdf01f?raw=true">
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-👨🏼‍💻 Fullstack Web Developer since 2019.
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
 
-💡 I'm looking to collaborate on projects using React, NestJS, AWS, MongoDB, GraphQL etc.
+### 👨🏼‍💻 About Me
 
-🎬 I write blogs on [Medium](https://medium.com/@VibekD1996)
+- 🚀 **Fullstack Web Developer** since 2019
+- 💡 Open to collaborate on **React · NestJS · AWS · MongoDB · GraphQL**
+- 🎬 I write blogs on [Medium](https://medium.com/@VibekD1996)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vibekdutta/)
+- 🎸 My favourite rock band is **Avenged Sevenfold** 🤘
 
-📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/vibekdutta/)
+<br clear="right"/>
 
-🎸 My favourite rock band is Avenged Sevenfold.
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Fullstack+Developer+%7C+Typescript+%7C+AWS;Kafka+%7C+Nodejs+%7C+Redis+%7C+GraphQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F25C93&width=435&lines=Fullstack+Developer+%7C+Typescript+%7C+AWS;Kafka+%7C+Nodejs+%7C+Redis+%7C+GraphQL)](https://git.io/typing-svg)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -42,10 +51,63 @@
 ![TanStack Query](https://img.shields.io/badge/tanstack%20query-%23000000.svg?style=for-the-badge&logo=react-query&logoColor=%23FF4154)
 ![React Hook Form](https://img.shields.io/badge/react%20hook%20form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GodParticle1996&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodParticle1996&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodParticle1996&theme=radical&hide_border=true" alt="streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GodParticle1996&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
+</div>
+
+<!-- Contribution snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GodParticle1996/GodParticle1996/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GodParticle1996/GodParticle1996/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/GodParticle1996/GodParticle1996/output/github-snake.svg" />
 </picture>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=vishnudas-bluefox&label=Visitors&labelColor=111826&countColor=F25C93)
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GodParticle1996&theme=redical&hide_border=true&area=true" width="100%"/>
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎧 Now Playing
+
+<!--
+  SETUP: This is a live Spotify widget. Replace YOUR_VERCEL_APP below after you
+  deploy https://github.com/novatorem/novatorem (1-click Vercel deploy, ~5 min).
+-->
+<div align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER">
+    <img src="https://YOUR_VERCEL_APP.vercel.app/api/spotify" alt="Spotify Now Playing" width="380"/>
+  </a>
+</div>
+
+## ⏱️ Weekly Coding Stats
+
+<!--
+  SETUP: Sign up at https://wakatime.com, install the WakaTime plugin in your editor,
+  then add your WakaTime API key + GitHub token as repo secrets and run the
+  "waka-readme-stats" Action. Until then this card stays empty.
+-->
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=GodParticle1996&theme=radical&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com)
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=GodParticle1996&label=Visitors&labelColor=111826&countColor=F25C93)
+
+</div>
