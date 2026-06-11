@@ -1,9 +1,9 @@
-<h1 align="center">
-  Hey there, I'm Vibek Dutta
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-44f0f158-19b0-4a40-bd9b-c79b6c0d6f1d.gif" width="35">
-</h1>
+<!-- Animated terminal hero (pure animated SVG — no JS, renders on GitHub) -->
+<p align="center">
+  <img src="./terminal-hero.svg" alt="Vibek Dutta — terminal intro" width="800">
+</p>
 
-<a href="/"><img align="center" width="1010" height="320" src="https://i.pinimg.com/originals/a2/68/09/a268090eed3a5fdf78826a5b7b1b9999.gif"></a>
+<a href="/"><img align="center" width="1010" height="320" src="./crow.gif"></a>
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
