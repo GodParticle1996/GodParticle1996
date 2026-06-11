@@ -65,10 +65,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodParticle1996&theme=radical&hide_border=true" alt="streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GodParticle1996&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
-</div>
-
 <!-- Contribution snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GodParticle1996/GodParticle1996/output/github-snake-dark.svg" />
@@ -78,30 +74,6 @@
 
 <!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GodParticle1996&theme=redical&hide_border=true&area=true" width="100%"/>
-
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🎧 Now Playing
-
-<!--
-  SETUP: This is a live Spotify widget. Replace YOUR_VERCEL_APP below after you
-  deploy https://github.com/novatorem/novatorem (1-click Vercel deploy, ~5 min).
--->
-<div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER">
-    <img src="https://YOUR_VERCEL_APP.vercel.app/api/spotify" alt="Spotify Now Playing" width="380"/>
-  </a>
-</div>
-
-## ⏱️ Weekly Coding Stats
-
-<!--
-  SETUP: Sign up at https://wakatime.com, install the WakaTime plugin in your editor,
-  then add your WakaTime API key + GitHub token as repo secrets and run the
-  "waka-readme-stats" Action. Until then this card stays empty.
--->
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=GodParticle1996&theme=radical&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com)
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
