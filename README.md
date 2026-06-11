@@ -69,8 +69,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GodParticle1996&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
 </div>
 
-<!-- Contribution snake (animated ocean variant) -->
-<img alt="snake animation" width="100%" src="https://raw.githubusercontent.com/GodParticle1996/GodParticle1996/output/ocean.gif" />
+<!-- Contribution snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GodParticle1996/GodParticle1996/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GodParticle1996/GodParticle1996/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GodParticle1996/GodParticle1996/output/github-snake.svg" />
+</picture>
 
 <!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GodParticle1996&theme=redical&hide_border=true&area=true" width="100%"/>
