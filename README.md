@@ -1,9 +1,9 @@
 <h1 align="center">
   Hey there, I'm Vibek Dutta
-  <img src="https://i.pinimg.com/originals/a2/68/09/a268090eed3a5fdf78826a5b7b1b9999.gif" width="35">
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-44f0f158-19b0-4a40-bd9b-c79b6c0d6f1d.gif" width="35">
 </h1>
 
-<a href="/"><img align="center" width="1010" height="320" src="https://github.com/user-attachments/assets/817b24e2-9a51-476b-934b-2917200f5ba3?raw=true"></a>
+<a href="/"><img align="center" width="1010" height="320" src="https://i.pinimg.com/originals/a2/68/09/a268090eed3a5fdf78826a5b7b1b9999.gif"></a>
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
