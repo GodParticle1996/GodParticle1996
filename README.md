@@ -3,7 +3,7 @@
   <img src="./terminal-hero.svg" alt="Vibek Dutta — terminal intro" width="800">
 </p>
 
-<a href="/"><img align="center" width="1010" height="320" src="./crow.gif"></a>
+<!-- <a href="/"><img align="center" width="1010" height="320" src="./crow.gif"></a> -->
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
